@@ -5,5 +5,9 @@ I crawled data from the ISU websited, when fed the whole data, Gemini reported a
 Be sure to set mykey to your own gemeni key obtained here:
 https://aistudio.google.com/apikey
 
+I user crawling capabities by Yatharth Bisht on Kaggle:
+https://www.kaggle.com/code/yatharthbisht/generating-openapi-specs-for-crms-using-gemini
+
+
 
 Happy Coding!
